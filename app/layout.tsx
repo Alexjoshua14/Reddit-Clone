@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-zinc-900 text-zinc-50">
+      <body className="bg-zinc-950 text-zinc-50">
         <div className="flex flex-col h-screen">
           <TopNav />
           <div className="flex flex-1 pt-12">
